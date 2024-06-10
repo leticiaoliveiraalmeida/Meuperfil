@@ -1,16 +1,18 @@
-## Hi there 👋
+### vindas ao meu perfil 🖤
 
-<!--
-**skyyy0/skyyy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Leticia Oliveira
 
-Here are some ideas to get you started:
+-estou estudando na [Alura](https://www.aluracom.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou aprendendo a linguagem JavaScript
+
+-utilizo esse espaço para minha organização pessoal e compartilhamento dos meus projetos 😸
+
+### você pode entrar em contato comigo 📫
+
+@_skyyygilr
+
+![](https://media1.tenor.com/m/P3RqQUUK9BAAAAAd/rip-juice-cry.gif) 
+
+
+
